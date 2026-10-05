@@ -1,0 +1,18 @@
+===== Library Book Inventory =====
+1. Add Book
+2. View All Books
+3. Find Book
+4. Update Book
+5. Delete Book
+0. Exit
+Enter choice: 2
+
+Book{isbn='ISBN001', title='Clean Code', author='Robert C. Martin', quantity=5}
+Book{isbn='ISBN002', title='Effective Java', author='Joshua Bloch', quantity=3}
+
+Enter choice: 3
+ISBN: isbn001
+Book{isbn='ISBN001', title='Clean Code', author='Robert C. Martin', quantity=5}
+
+Enter choice: 0
+Application closed.
